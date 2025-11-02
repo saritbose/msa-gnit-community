@@ -5,13 +5,26 @@
     "linkedin": "https://www.linkedin.com/in/gourav-chandra-5b0854274/",
     "year": "3rd Year",
     "description": "Backend Developer, passionate to learn how systems work at scale."
-  }
+  }, 
 {
     "name": "Ishita Das",
     "github": "https://github.com/IshitaDas2004",
     "linkedin": "https://www.linkedin.com/in/ishita-das-1432a3206?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "year": "3rd Year",
     "description": "Passionate & Enthusiastic App Developer"
-  }
-
+  },
+  {
+    "name": "Subarna Maity",
+    "github": "https://github.com/Dronzer2code",
+    "linkedin": "https://www.linkedin.com/in/subarna-maity-3a662335b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "year": "2nd Year",
+    "description": "Android Developer, also passionate about web development and open source."
+  },
+  {
+    "name": "Sarit Bose",
+    "github": "https://github.com/saritbose",
+    "linkedin": "https://www.linkedin.com/in/sarit-bose/",
+    "year": "1st Year",
+    "description": "Trying to have fun while learning new things.s"
+  }, 
 ]
